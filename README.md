@@ -10,7 +10,7 @@ This project demonstrates image classification using two models: a custom CNN an
   2. **ResNet50** – pretrained on ImageNet, fine-tuned on this dataset  
 
 - **Dataset**:  
-  - 3 classes  
+  - 2 classes  
   - Images resized to 128x128 
   - Split into train, validation, and test sets  
 
